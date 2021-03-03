@@ -1,6 +1,8 @@
 # vdp-in-fceb
 
-To increase discoverability, this repository tracks the federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) under CISA's authorities and where their vulnerability disclosure policy (VDP) is. Review the agency's policy for information about current scope and submission location.
+This repository lists the vulnerability disclosure policies (VDP) for federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) under CISA's directive authority. Review an agency's policy for information about current scope and submission location.
+
+(Note that the link below is the one required by [Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01); links may redirect.)
 
 | **Agency Name** | **Acronym** | **VDP link**
 |  -------- | ---------------- | ------------
@@ -102,7 +104,7 @@ To increase discoverability, this repository tracks the federal civilian executi
 | United States Commission on Civil Rights| USCCR | https://www.usccr.gov/vulnerability-disclosure-policy
 | United States Department of Agriculture | USDA | https://www.usda.gov/vulnerability-disclosure-policy 
 | United States Interagency Council on Homelessness | USICH
-| United States International Development Finance Corporation (formerly Overseas Private Investment Corporation) | DFC
+| United States International Development Finance Corporation | DFC
 | United States International Trade Commission| USITC | https://www.usitc.gov/vulnerability-disclosure-policy
 | United States Trade and Development Agency| USTDA
 
