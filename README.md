@@ -1,8 +1,8 @@
-# vdp-in-fceb
+# VDPs in the US Government's executive branch
 
 This repository lists the vulnerability disclosure policies (VDP) for federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) under CISA's directive authority. Review an agency's policy for information about current scope and submission location.
 
-(Note that the link below is the one required by [Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01); links may redirect.)
+(Note that the link named below is the one required by [Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01) and may redirect.)
 
 | **Agency Name** | **Acronym** | **VDP link**
 |  -------- | ---------------- | ------------
