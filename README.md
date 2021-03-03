@@ -27,7 +27,7 @@ To increase discoverability, this repository tracks the federal civilian executi
 | Department of Health and Human Services | HHS | https://www.hhs.gov/vulnerability-disclosure-policy
 | Department of Homeland Security | DHS | https://www.dhs.gov/vulnerability-disclosure-policy
 | Department of Housing and Urban Development | HUD | https://www.hud.gov/vulnerability-disclosure-policy
-| Department of Justice | DOJ https://www.justice.gov/vulnerability-disclosure-policy
+| Department of Justice | DOJ | https://www.justice.gov/vulnerability-disclosure-policy
 | Department of Labor | DOL | https://www.dol.gov/vulnerability-disclosure-policy
 | Department of State | DOS |
 | Department of the Interior | DOI | https://www.doi.gov/vulnerability-disclosure-policy
