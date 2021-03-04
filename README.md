@@ -25,7 +25,7 @@ This repository lists the vulnerability disclosure policies (VDP) for federal ci
 | Denali Commission | DENALI | https://www.denali.gov/vulnerability-disclosure-policy
 | Department of Commerce | DOC | https://www.doc.gov/vulnerability-disclosure-policy
 | Department of Education | ED | https://www.ed.gov/vulnerability-disclosure-policy
-| Department of Energy | DOE | https://www.energy.gov/vulnerability-disclosure-policy
+| Department of Energy | DOE | 
 | Department of Health and Human Services | HHS | https://www.hhs.gov/vulnerability-disclosure-policy
 | Department of Homeland Security | DHS | https://www.dhs.gov/vulnerability-disclosure-policy
 | Department of Housing and Urban Development | HUD | https://www.hud.gov/vulnerability-disclosure-policy
