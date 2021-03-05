@@ -83,7 +83,7 @@ This repository lists the vulnerability disclosure policies (VDP) for federal ci
 | Office of Navajo and Hopi Indian Relocation | ONHIR | https://www.onhir.gov/vulnerability-disclosure-policy
 | Office of Personnel Management| OPM | https://www.opm.gov/vulnerability-disclosure-policy
 | Office of Special Counsel | OSC
-| Peace Corps | PC
+| Peace Corps | PC | https://www.peacecorps.gov/vulnerability-disclosure-policy/
 | Pension Benefit Guaranty Corporation | PBGC | https://www.pbgc.gov/vulnerability-disclosure-policy
 | Postal Regulatory Commission| PRC
 | Presidio Trust | PT
