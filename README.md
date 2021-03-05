@@ -1,8 +1,10 @@
-# VDPs in the US Government's (civilian) executive branch
+# VDPs in the US Government's executive branch
 
-This repository lists the vulnerability disclosure policies (VDP) for federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) under CISA's directive authority. Review an agency's policy for information about current scope and submission location. (Note that the URL under `VDP link` below is the one required by [Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01) and may redirect.)
+[Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01) requires most federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) to have vulnerability disclosure policies (VDP). This repository gives the location of these agencies' VDPs. Review an agency's policy for information about current scope and submission location.
 
-Though the Department of Defense is not subject to BOD 20-01, DoD does have a VDP at https://hackerone.com/deptofdefense
+Though the Department of Defense is not subject to BOD 20-01, DoD does have a VDP at https://hackerone.com/deptofdefense.
+
+(Note that the URL under `VDP link` is the one required by BOD 20-01 and may redirect.)
 
 | **Agency Name** | **Acronym** | **VDP link**
 |  -------- | ---------------- | ------------
