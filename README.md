@@ -44,7 +44,7 @@ This repository lists the vulnerability disclosure policies (VDP) for federal ci
 | Farm Credit System Insurance Corporation | FCSIC | https://www.fcsic.gov/vulnerability-disclosure-policy
 | Federal Communications Commission | FCC | https://www.fcc.gov/vulnerability-disclosure-policy
 | Federal Deposit Insurance Corporation | FDIC
-| Federal Energy Regulatory Commission | FERC
+| Federal Energy Regulatory Commission | FERC | https://www.ferc.gov/vulnerability-disclosure-policy
 | Federal Housing Finance Agency | FHFA | https://www.fhfa.gov/vulnerability-disclosure-policy
 | Federal Labor Relations Authority | FLRA
 | Federal Maritime Commission | FMC
@@ -70,7 +70,7 @@ This repository lists the vulnerability disclosure policies (VDP) for federal ci
 | National Credit Union Administration| NCUA | https://www.ncua.gov/vulnerability-disclosure-policy
 | National Endowment for the Arts | NEA | https://www.arts.gov/vulnerability-disclosure-policy
 | National Endowment for the Humanities | NEH | https://www.neh.gov/vulnerability-disclosure-policy
-| National Labor Relations Board| NLRB
+| National Labor Relations Board| NLRB | https://www.nlrb.gov/vulnerability-disclosure-policy
 | National Mediation Board| NMB
 | National Science Foundation | NSF | https://www.nsf.gov/vulnerability-disclosure-policy
 | National Security Commission on Artificial Intelligence | NSCAI
@@ -85,7 +85,7 @@ This repository lists the vulnerability disclosure policies (VDP) for federal ci
 | Office of Special Counsel | OSC
 | Peace Corps | PC | https://www.peacecorps.gov/vulnerability-disclosure-policy/
 | Pension Benefit Guaranty Corporation | PBGC | https://www.pbgc.gov/vulnerability-disclosure-policy
-| Postal Regulatory Commission| PRC
+| Postal Regulatory Commission| PRC | https://www.prc.gov/vulnerability-disclosure-policy
 | Presidio Trust | PT
 | Privacy and Civil Liberties Oversight Board | PCLOB | https://www.pclob.gov/vulnerability-disclosure-policy
 | Railroad Retirement Board | RRB
