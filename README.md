@@ -1,4 +1,4 @@
-# VDPs in the :us: US Government's executive branch 
+# :us: VDPs in the US Government's executive branch 
 
 [Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01) requires most federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) to have vulnerability disclosure policies (VDP). This repository gives the location of these agencies' VDPs. Review an agency's policy for information about current scope and submission location.
 
