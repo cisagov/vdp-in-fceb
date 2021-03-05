@@ -31,7 +31,7 @@ This repository lists the vulnerability disclosure policies (VDP) for federal ci
 | Department of Housing and Urban Development | HUD | https://www.hud.gov/vulnerability-disclosure-policy
 | Department of Justice | DOJ | https://www.justice.gov/vulnerability-disclosure-policy
 | Department of Labor | DOL | https://www.dol.gov/vulnerability-disclosure-policy
-| Department of State | DOS |
+| Department of State | DOS | https://www.state.gov/vulnerability-disclosure-policy/
 | Department of the Interior | DOI | https://www.doi.gov/vulnerability-disclosure-policy
 | Department of the Treasury | TREAS | https://www.treasury.gov/vulnerability-disclosure-policy
 | Department of Transportation | DOT | https://www.dot.gov/vulnerability-disclosure-policy
