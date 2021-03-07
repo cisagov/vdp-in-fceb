@@ -1,6 +1,6 @@
 # :us: VDPs in the US Government's executive branch 
 
-[Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01) requires most federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) to have vulnerability disclosure policies (VDP). This repository gives the location of these agencies' VDPs. Review an agency's policy for information about current scope and submission location.
+[Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01) requires most federal civilian executive branch (FCEB) [agencies](https://cyber.dhs.gov/agencies/) to have vulnerability disclosure policies (VDP). This repository gives the location of these agencies' VDPs; _it does not necessarily mean a given VDP is in alignment with BOD 20-01_. Review an agency's policy for information about current scope and submission location.
 
 Though the Department of Defense is not subject to BOD 20-01, DoD does have a VDP at https://hackerone.com/deptofdefense.
 
