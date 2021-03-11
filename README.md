@@ -48,21 +48,21 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Federal Deposit Insurance Corporation | FDIC
 | Federal Energy Regulatory Commission | FERC | https://www.ferc.gov/vulnerability-disclosure-policy
 | Federal Housing Finance Agency | FHFA | https://www.fhfa.gov/vulnerability-disclosure-policy
-| Federal Labor Relations Authority | FLRA
+| Federal Labor Relations Authority | FLRA | https://www.flra.gov/vulnerability-disclosure-policy
 | Federal Maritime Commission | FMC
 | Federal Mediation and Conciliation Service | FMCS | https://www.fmcs.gov/vulnerability-disclosure-policy
 | Federal Mine Safety and Health Review Commission | FMSHRC
-| Federal Retirement Thrift Investment Board | FRTIB
+| Federal Retirement Thrift Investment Board | FRTIB | https://www.frtib.gov/vulnerability-disclosure-policy
 | Federal Trade Commission | FTC | https://www.ftc.gov/vulnerability-disclosure-policy
 | General Services Administration | GSA | https://www.gsa.gov/vulnerability-disclosure-policy
 | Gulf Coast Ecosystem Restoration Council | GCERC
 | Harry S Truman Scholarship Foundation | HTSF
 | Institute of Museum and Library Services | IMLS | https://www.imls.gov/vulnerability-disclosure-policy
 | Inter-American Foundation | IAF
-| James Madison Memorial Fellowship Foundation | JMMFF
+| James Madison Memorial Fellowship Foundation | JMMFF | https://www.jamesmadison.gov/vulnerability-disclosure-policy
 | Japan-United States Friendship Commission | JUSFC
 | Marine Mammal Commission| MMC
-| Merit Systems Protection Board| MSPB
+| Merit Systems Protection Board| MSPB | https://www.mspb.gov/vulnerability-disclosure-policy/
 | Millennium Challenge Corporation| MCC | https://www.mcc.gov/vulnerability-disclosure-policy
 | Morris K. Udall and Stewart L. Udall Foundation | UDALL | https://www.udall.gov/vulnerability-disclosure-policy
 | National Aeronautics and Space Administration | NASA | https://www.nasa.gov/vulnerability-disclosure-policy
@@ -78,7 +78,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | National Security Commission on Artificial Intelligence | NSCAI
 | National Transportation Safety Board| NTSB
 | Nuclear Regulatory Commission | NRC | https://www.nrc.gov/vulnerability-disclosure-policy
-| Nuclear Waste Technical Review Board| NWTRB
+| Nuclear Waste Technical Review Board| NWTRB | https://www.nwtrb.gov/vulnerability-disclosure-policy
 | Occupational Safety and Health Review Commission | OSHRC | https://www.oshrc.gov/vulnerability-disclosure-policy
 | Office of the Comptroller of the Currency | OCC
 | Office of Government Ethics | OGE | https://www.oge.gov/vulnerability-disclosure-policy
@@ -92,7 +92,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Privacy and Civil Liberties Oversight Board | PCLOB | https://www.pclob.gov/vulnerability-disclosure-policy
 | Railroad Retirement Board | RRB
 | Securities and Exchange Commission | SEC | https://www.sec.gov/vulnerability-disclosure-policy
-| Selective Service System| SSS
+| Selective Service System| SSS | https://www.sss.gov/vulnerability-disclosure-policy
 | Small Business Administration | SBA | https://www.sba.gov/vulnerability-disclosure-policy
 | Social Security Administration| SSA | https://www.ssa.gov/vulnerability-disclosure-policy
 | Social Security Advisory Board| SSAB
