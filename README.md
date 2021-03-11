@@ -105,6 +105,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | United States Agency for International Development | USAID | https://www.usaid.gov/vulnerability-disclosure-policy
 | United States Commission on Civil Rights| USCCR | https://www.usccr.gov/vulnerability-disclosure-policy
 | United States Department of Agriculture | USDA | https://www.usda.gov/vulnerability-disclosure-policy 
+| United States Institute of Peace | USIP
 | United States Interagency Council on Homelessness | USICH
 | United States International Development Finance Corporation | DFC
 | United States International Trade Commission| USITC | https://www.usitc.gov/vulnerability-disclosure-policy
