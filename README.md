@@ -4,7 +4,7 @@
 
 Though the Department of Defense is not subject to BOD 20-01, DoD does have a VDP at https://hackerone.com/deptofdefense.
 
-(Note that the URL under `VDP link` is the one required by BOD 20-01 and may redirect.)
+(Note that the URL under `VDP link` is generally the one required by BOD 20-01 and may redirect.)
 
 | **Agency Name** | **Acronym** | **VDP link**
 |  -------- | ---------------- | ------------
