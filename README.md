@@ -10,10 +10,10 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 |  -------- | ---------------- | ------------
 | Administrative Conference of the United States | ACUS |
 | Advisory Council on Historic Preservation | ACHP
-| African Development Foundation | ADF
+| African Development Foundation | ADF | https://www.adf.gov/vulnerability-disclosure-policy
 | American Battle Monuments Commission | ABMC | https://www.abmc.gov/vulnerability-disclosure-policy
 | Armed Forces Retirement Home | AFRH
-| Barry Goldwater Scholarship and Excellence in Education Foundation | BGSF
+| Barry Goldwater Scholarship and Excellence in Education Foundation | BGSF | https://goldwater.scholarsapply.org/vulnerability-disclosure-policy/
 | Board of Governors of the Federal Reserve | FRB | https://www.federalreserve.gov/vulnerability-disclosure-policy
 | Chemical Safety Board | CSB
 | Commission of Fine Arts | CFA
@@ -49,7 +49,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Federal Energy Regulatory Commission | FERC | https://www.ferc.gov/vulnerability-disclosure-policy
 | Federal Housing Finance Agency | FHFA | https://www.fhfa.gov/vulnerability-disclosure-policy
 | Federal Labor Relations Authority | FLRA | https://www.flra.gov/vulnerability-disclosure-policy
-| Federal Maritime Commission | FMC
+| Federal Maritime Commission | FMC | https://www.fmc.gov/vulnerability-disclosure-policy/
 | Federal Mediation and Conciliation Service | FMCS | https://www.fmcs.gov/vulnerability-disclosure-policy
 | Federal Mine Safety and Health Review Commission | FMSHRC
 | Federal Retirement Thrift Investment Board | FRTIB | https://www.frtib.gov/vulnerability-disclosure-policy
@@ -61,7 +61,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Inter-American Foundation | IAF
 | James Madison Memorial Fellowship Foundation | JMMFF | https://www.jamesmadison.gov/vulnerability-disclosure-policy
 | Japan-United States Friendship Commission | JUSFC
-| Marine Mammal Commission| MMC
+| Marine Mammal Commission| MMC | https://www.mmc.gov/vulnerability-disclosure-policy/
 | Merit Systems Protection Board| MSPB | https://www.mspb.gov/vulnerability-disclosure-policy/
 | Millennium Challenge Corporation| MCC | https://www.mcc.gov/vulnerability-disclosure-policy
 | Morris K. Udall and Stewart L. Udall Foundation | UDALL | https://www.udall.gov/vulnerability-disclosure-policy
@@ -84,7 +84,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Office of Government Ethics | OGE | https://www.oge.gov/vulnerability-disclosure-policy
 | Office of Navajo and Hopi Indian Relocation | ONHIR | https://www.onhir.gov/vulnerability-disclosure-policy
 | Office of Personnel Management| OPM | https://www.opm.gov/vulnerability-disclosure-policy
-| Office of Special Counsel | OSC
+| Office of Special Counsel | OSC | https://osc.gov/vulnerability-disclosure-policy
 | Peace Corps | PC | https://www.peacecorps.gov/vulnerability-disclosure-policy/
 | Pension Benefit Guaranty Corporation | PBGC | https://www.pbgc.gov/vulnerability-disclosure-policy
 | Postal Regulatory Commission| PRC | https://www.prc.gov/vulnerability-disclosure-policy
@@ -95,9 +95,9 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Selective Service System| SSS | https://www.sss.gov/vulnerability-disclosure-policy
 | Small Business Administration | SBA | https://www.sba.gov/vulnerability-disclosure-policy
 | Social Security Administration| SSA | https://www.ssa.gov/vulnerability-disclosure-policy
-| Social Security Advisory Board| SSAB
-| Surface Transportation Board| STB
-| Tennessee Valley Authority| TVA
+| Social Security Advisory Board| SSAB | https://www.ssab.gov/vulnerability-disclosure-policy
+| Surface Transportation Board| STB | https://prod.stb.gov/vulnerability-disclosure-policy
+| Tennessee Valley Authority| TVA | https://www.tva.com/vulnerability-disclosure-policy
 | U.S. Section of International Boundary and Water Commission| IBWC
 | United States AbilityOne Commission | USAC
 | United States Access Board| USAB | https://www.access-board.gov/vulnerability-disclosure-policy
@@ -107,7 +107,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | United States Department of Agriculture | USDA | https://www.usda.gov/vulnerability-disclosure-policy 
 | United States Institute of Peace | USIP
 | United States Interagency Council on Homelessness | USICH
-| United States International Development Finance Corporation | DFC
+| United States International Development Finance Corporation | DFC | https://www.dfc.gov/vulnerability-disclosure-policy
 | United States International Trade Commission| USITC | https://www.usitc.gov/vulnerability-disclosure-policy
 | United States Trade and Development Agency| USTDA
 
