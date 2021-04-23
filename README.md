@@ -83,7 +83,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Office of the Comptroller of the Currency | OCC
 | Office of Government Ethics | OGE | https://www.oge.gov/vulnerability-disclosure-policy
 | Office of Navajo and Hopi Indian Relocation | ONHIR | https://www.onhir.gov/vulnerability-disclosure-policy
-| Office of Personnel Management| OPM | https://www.opm.gov/vulnerability-disclosure-policy
+| Office of Personnel Management| OPM |
 | Office of Special Counsel | OSC | https://osc.gov/vulnerability-disclosure-policy
 | Peace Corps | PC | https://www.peacecorps.gov/vulnerability-disclosure-policy/
 | Pension Benefit Guaranty Corporation | PBGC | https://www.pbgc.gov/vulnerability-disclosure-policy
