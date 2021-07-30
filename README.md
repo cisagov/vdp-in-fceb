@@ -29,6 +29,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Department of Education | ED | https://www.ed.gov/vulnerability-disclosure-policy
 | Department of Energy | DOE | https://doe.responsibledisclosure.com/hc/en-us
 | Department of Energy Office of Scientific and Technical Information| DOE OSTI | https://www.osti.gov/vulnerability-disclosure-policy
+| Southwestern Power Administration | SWPA | https://www.swpa.gov/vulnerability-disclosure-policy.html
 | Department of Health and Human Services | HHS | https://www.hhs.gov/vulnerability-disclosure-policy
 | Department of Homeland Security | DHS | https://www.dhs.gov/vulnerability-disclosure-policy
 | Federal Emergency Management Agency | FEMA | https://www.fema.gov/about/website-information/vulnerability-disclosure-policy
