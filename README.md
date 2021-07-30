@@ -8,7 +8,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 
 | **Agency Name** | **Acronym** | **VDP link**
 |  -------- | ---------------- | ------------
-| Administrative Conference of the United States | ACUS |
+| Administrative Conference of the United States | ACUS | https://acus.gov/vulnerability-disclosure-policy
 | Advisory Council on Historic Preservation | ACHP
 | African Development Foundation | ADF | https://www.adf.gov/vulnerability-disclosure-policy
 | American Battle Monuments Commission | ABMC | https://www.abmc.gov/vulnerability-disclosure-policy
@@ -16,25 +16,30 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Barry Goldwater Scholarship and Excellence in Education Foundation | BGSF | https://goldwater.scholarsapply.org/vulnerability-disclosure-policy/
 | Board of Governors of the Federal Reserve | FRB | https://www.federalreserve.gov/vulnerability-disclosure-policy
 | Chemical Safety Board | CSB
-| Commission of Fine Arts | CFA
+| Commission of Fine Arts | CFA | https://cfa.gov/vulnerability-disclosure-policy
 | Commodity Futures Trading Commission | CFTC | https://www.cftc.gov/vulnerability-disclosure-policy
-| Consumer Financial Protection Bureau | CFPB | https://www.cfpb.gov/vulnerability-disclosure-policy
+| Consumer Financial Protection Bureau | CFPB | https://www.consumerfinance.gov/vulnerability-disclosure-policy/
 | Consumer Product Safety Commission | CPSC | https://www.cpsc.gov/vulnerability-disclosure-policy
 | Corporation for National and Community Service | CNCS
 | Council of the Inspectors General on Integrity and Efficiency | CIGIE | https://www.ignet.gov/vulnerability-disclosure-policy
 | Court Services and Offender Supervision Agency | CSOSA | https://www.csosa.gov/vulnerability-disclosure-policy
 | Defense Nuclear Facilities Safety Board | DNFSB | https://www.dnfsb.gov/vulnerability-disclosure-policy
 | Denali Commission | DENALI | https://www.denali.gov/vulnerability-disclosure-policy
-| Department of Commerce | DOC | https://www.doc.gov/vulnerability-disclosure-policy
+| Department of Commerce | DOC | https://www.commerce.gov/vulnerability-disclosure-policy
 | Department of Education | ED | https://www.ed.gov/vulnerability-disclosure-policy
-| Department of Energy | DOE | 
+| Department of Energy | DOE | https://doe.responsibledisclosure.com/hc/en-us
+| Department of Energy Office of Scientific and Technical Information| DOE OSTI | https://www.osti.gov/vulnerability-disclosure-policy
+| Southwestern Power Administration | SWPA | https://www.swpa.gov/vulnerability-disclosure-policy.html
 | Department of Health and Human Services | HHS | https://www.hhs.gov/vulnerability-disclosure-policy
 | Department of Homeland Security | DHS | https://www.dhs.gov/vulnerability-disclosure-policy
+| Federal Emergency Management Agency | FEMA | https://www.fema.gov/about/website-information/vulnerability-disclosure-policy
 | Department of Housing and Urban Development | HUD | https://www.hud.gov/vulnerability-disclosure-policy
 | Department of Justice | DOJ | https://www.justice.gov/vulnerability-disclosure-policy
 | Department of Labor | DOL | https://www.dol.gov/vulnerability-disclosure-policy
 | Department of State | DOS | https://www.state.gov/vulnerability-disclosure-policy/
 | Department of the Interior | DOI | https://www.doi.gov/vulnerability-disclosure-policy
+| Bureau of Indian Affairs | BIA | https://www.bia.gov/vulnerability-disclosure-policy
+| Fish and Wildlife Service | FWS | https://www.fws.gov/vulnerability-disclosure-policy/
 | Department of the Treasury | TREAS | https://www.treasury.gov/vulnerability-disclosure-policy
 | Department of Transportation | DOT | https://www.dot.gov/vulnerability-disclosure-policy
 | Department of Veterans Affairs | VA | https://www.va.gov/vulnerability-disclosure-policy
@@ -48,6 +53,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Federal Deposit Insurance Corporation | FDIC
 | Federal Energy Regulatory Commission | FERC | https://www.ferc.gov/vulnerability-disclosure-policy
 | Federal Housing Finance Agency | FHFA | https://www.fhfa.gov/vulnerability-disclosure-policy
+|  Federal Housing Finance Agency Office of Inspector General | FHFA-OIG | https://www.fhfaoig.gov/vulnerability-disclosure-policy
 | Federal Labor Relations Authority | FLRA | https://www.flra.gov/vulnerability-disclosure-policy
 | Federal Maritime Commission | FMC | https://www.fmc.gov/vulnerability-disclosure-policy/
 | Federal Mediation and Conciliation Service | FMCS | https://www.fmcs.gov/vulnerability-disclosure-policy
@@ -66,9 +72,9 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Millennium Challenge Corporation| MCC | https://www.mcc.gov/vulnerability-disclosure-policy
 | Morris K. Udall and Stewart L. Udall Foundation | UDALL | https://www.udall.gov/vulnerability-disclosure-policy
 | National Aeronautics and Space Administration | NASA | https://www.nasa.gov/vulnerability-disclosure-policy
-| National Archives and Records Administration| NARA | https://www.nara.gov/vulnerability-disclosure-policy
+| National Archives and Records Administration| NARA | https://www.archives.gov/vulnerability-disclosure-policy
 | National Capital Planning Commission| NCPC | https://www.ncpc.gov/vulnerability-disclosure-policy
-| National Council on Disability| NCD
+| National Council on Disability| NCD | https://ncd.gov/vulnerability-disclosure-policy
 | National Credit Union Administration| NCUA | https://www.ncua.gov/vulnerability-disclosure-policy
 | National Endowment for the Arts | NEA | https://www.arts.gov/vulnerability-disclosure-policy
 | National Endowment for the Humanities | NEH | https://www.neh.gov/vulnerability-disclosure-policy
@@ -83,14 +89,14 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Office of the Comptroller of the Currency | OCC
 | Office of Government Ethics | OGE | https://www.oge.gov/vulnerability-disclosure-policy
 | Office of Navajo and Hopi Indian Relocation | ONHIR | https://www.onhir.gov/vulnerability-disclosure-policy
-| Office of Personnel Management| OPM |
+| Office of Personnel Management| OPM | https://www.opm.gov/vulnerability-disclosure-policy
 | Office of Special Counsel | OSC | https://osc.gov/vulnerability-disclosure-policy
 | Peace Corps | PC | https://www.peacecorps.gov/vulnerability-disclosure-policy/
 | Pension Benefit Guaranty Corporation | PBGC | https://www.pbgc.gov/vulnerability-disclosure-policy
 | Postal Regulatory Commission| PRC | https://www.prc.gov/vulnerability-disclosure-policy
-| Presidio Trust | PT
+| Presidio Trust | PT | https://presidio.gov/vulnerability-disclosure-policy
 | Privacy and Civil Liberties Oversight Board | PCLOB | https://www.pclob.gov/vulnerability-disclosure-policy
-| Railroad Retirement Board | RRB
+| Railroad Retirement Board | RRB | https://rrb.gov/vulnerability-disclosure-policy
 | Securities and Exchange Commission | SEC | https://www.sec.gov/vulnerability-disclosure-policy
 | Selective Service System| SSS | https://www.sss.gov/vulnerability-disclosure-policy
 | Small Business Administration | SBA | https://www.sba.gov/vulnerability-disclosure-policy
@@ -109,7 +115,12 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | United States Interagency Council on Homelessness | USICH
 | United States International Development Finance Corporation | DFC | https://www.dfc.gov/vulnerability-disclosure-policy
 | United States International Trade Commission| USITC | https://www.usitc.gov/vulnerability-disclosure-policy
-| United States Trade and Development Agency| USTDA
+| United States Trade and Development Agency| USTDA | https://ustda.gov/vulnerability-disclosure-policy/
+| United States Digital Service | USDS | https://www.usds.gov/vulnerability-disclosure-policy
+| 18F | 18F | https://18f.gov/vulnerability-disclosure-policy
+| National Nanotechnology Coordination Office | NNCO | https://www.nano.gov/vulnerability-disclosure-policy
+| U.S. Arctic Research Commission | USARC | https://www.arctic.gov/vulnerability-disclosure-policy/
+| United States African Development Foundation | USADF | https://usadf.gov/vulnerability-disclosure-policy
 
 
 ## Public domain
