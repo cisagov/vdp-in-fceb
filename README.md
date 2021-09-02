@@ -99,7 +99,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Surface Transportation Board| STB | https://prod.stb.gov/vulnerability-disclosure-policy
 | Tennessee Valley Authority| TVA | https://www.tva.com/vulnerability-disclosure-policy
 | U.S. Section of International Boundary and Water Commission| IBWC | https://www.state.gov/vulnerability-disclosure-policy/
-| United States AbilityOne Commission | USAC | https://www.abilityone.gov/laws,_regulations_and_policy/documents/Vulnerability%20Disclosure%20Policy-Final%2020210311.pdf_ 
+| United States AbilityOne Commission | USAC | https://www.abilityone.gov/laws,_regulations_and_policy/documents/Vulnerability%20Disclosure%20Policy-Final%2020210311.pdf 
 | United States Access Board| USAB | https://www.access-board.gov/vulnerability-disclosure-policy
 | United States Agency for Global Media | USAGM | https://www.usagm.gov/vulnerability-disclosure-policy/
 | United States Agency for International Development | USAID | https://www.usaid.gov/vulnerability-disclosure-policy
