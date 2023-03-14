@@ -9,13 +9,13 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | **Agency Name** | **Acronym** | **VDP link**
 |  -------- | ---------------- | ------------
 | Administrative Conference of the United States | ACUS | https://www.acus.gov/vulnerability-disclosure-policy
-| Advisory Council on Historic Preservation | ACHP
+| Advisory Council on Historic Preservation | ACHP | https://www.achp.gov/vulnerability-disclosure-policy
 | African Development Foundation | ADF | https://www.adf.gov/vulnerability-disclosure-policy
 | American Battle Monuments Commission | ABMC | https://www.abmc.gov/vulnerability-disclosure-policy
 | Armed Forces Retirement Home | AFRH | https://www.afrh.gov/vulnerability-disclosure-policy
 | Barry Goldwater Scholarship and Excellence in Education Foundation | BGSF | https://goldwater.scholarsapply.org/vulnerability-disclosure-policy/
 | Board of Governors of the Federal Reserve | FRB | https://www.federalreserve.gov/vulnerability-disclosure-policy
-| Chemical Safety Board | CSB
+| Chemical Safety Board | CSB | https://www.csb.gov/assets/1/6/vulnerability_disclosure_policy_2.pdf
 | Commission of Fine Arts | CFA | https://www.cfa.gov/vulnerability-disclosure-policy
 | Commodity Futures Trading Commission | CFTC | https://www.cftc.gov/vulnerability-disclosure-policy
 | Consumer Financial Protection Bureau | CFPB | https://www.cfpb.gov/vulnerability-disclosure-policy
@@ -27,7 +27,7 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Denali Commission | DENALI | https://www.denali.gov/vulnerability-disclosure-policy
 | Department of Commerce | DOC | https://www.doc.gov/vulnerability-disclosure-policy
 | Department of Education | ED | https://www.ed.gov/vulnerability-disclosure-policy
-| Department of Energy | DOE | 
+| Department of Energy | DOE | https://www.energy.gov/cio/articles/vulnerability-disclosure-policy
 | Department of Health and Human Services | HHS | https://www.hhs.gov/vulnerability-disclosure-policy
 | Department of Homeland Security | DHS | https://www.dhs.gov/vulnerability-disclosure-policy
 | Department of Housing and Urban Development | HUD | https://www.hud.gov/vulnerability-disclosure-policy
@@ -51,11 +51,12 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | Federal Labor Relations Authority | FLRA | https://www.flra.gov/vulnerability-disclosure-policy
 | Federal Maritime Commission | FMC | https://www.fmc.gov/vulnerability-disclosure-policy/
 | Federal Mediation and Conciliation Service | FMCS | https://www.fmcs.gov/vulnerability-disclosure-policy
-| Federal Mine Safety and Health Review Commission | FMSHRC
+| Federal Mine Safety and Health Review Commission | FMSHRC | https://www.fmshrc.gov/vulnerability-disclosure-policy
+| Federal Permitting Improvement Steering Council | FPISC | 
 | Federal Retirement Thrift Investment Board | FRTIB | https://www.frtib.gov/vulnerability-disclosure-policy
 | Federal Trade Commission | FTC | https://www.ftc.gov/vulnerability-disclosure-policy
 | General Services Administration | GSA | https://www.gsa.gov/vulnerability-disclosure-policy
-| Gulf Coast Ecosystem Restoration Council | GCERC
+| Gulf Coast Ecosystem Restoration Council | GCERC | https://www.restorethegulf.gov/vulnerability-disclosure-policy
 | Harry S Truman Scholarship Foundation | HTSF
 | Institute of Museum and Library Services | IMLS | https://www.imls.gov/vulnerability-disclosure-policy
 | Inter-American Foundation | IAF | https://www.iaf.gov/vulnerability-disclosure-policy/
@@ -75,7 +76,6 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | National Labor Relations Board| NLRB | https://www.nlrb.gov/vulnerability-disclosure-policy
 | National Mediation Board| NMB | https://nmb.gov/NMB_Application/index.php/vdp/
 | National Science Foundation | NSF | https://www.nsf.gov/vulnerability-disclosure-policy
-| National Security Commission on Artificial Intelligence | NSCAI
 | National Transportation Safety Board| NTSB
 | Nuclear Regulatory Commission | NRC | https://www.nrc.gov/vulnerability-disclosure-policy
 | Nuclear Waste Technical Review Board| NWTRB | https://www.nwtrb.gov/vulnerability-disclosure-policy
