@@ -110,12 +110,3 @@ Though the Department of Defense is not subject to BOD 20-01, DoD does have a VD
 | United States International Development Finance Corporation | DFC | https://www.dfc.gov/vulnerability-disclosure-policy
 | United States International Trade Commission| USITC | https://www.usitc.gov/vulnerability-disclosure-policy
 | United States Trade and Development Agency| USTDA | https://www.ustda.gov/vulnerability-disclosure-policy
-
-
-## Public domain
-
-This project is in the worldwide [public domain](LICENSE.md).
-
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
